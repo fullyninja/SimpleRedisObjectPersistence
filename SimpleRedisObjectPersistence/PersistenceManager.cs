@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SimpleRedisObjectPersistence
 {
-    public class Class1
+    public class PersistenceManager
     {
     }
 }
