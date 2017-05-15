@@ -8,5 +8,6 @@ namespace SimpleRedisObjectPersistence
 {
     public class PersistenceManager
     {
+
     }
 }
